@@ -34,3 +34,6 @@ footer{background:var(--dk);color:#d1fae5;padding:40px 0;text-align:center}
 [data-aos]{opacity:0;transform:translateY(30px);transition:opacity .7s,transform .7s}
 [data-aos].aos-in{opacity:1;transform:none}
 @media(max-width:800px){.hero .wrap{grid-template-columns:1fr}.cards{grid-template-columns:1fr 1fr}.nav ul{display:none}}
+
+/* Shopping button styling test */
+.hero a.btn { background: #2563eb; border-radius: 8px; }
